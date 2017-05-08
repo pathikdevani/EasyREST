@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script src="lib/jquery-3.1.1.js" type="text/javascript"></script>
+<script src="js/server.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        server.ajax({
+            path: "api.js",
+            name: "test",
+            data: {
+                name: "Pathik"
+            },
+            done: function (data) {
+                console.log(data);
+                //here data is "Hello Pathik"
+            }
+        });
+    });
+
+    $(document).ready(function () {
+        server.ajax({
+            path: "api.js",
+            name: "mysqlDemo",
+            data: {
+                name: "Pathik"
+            },
+            done: function (data) {
+                console.log(data);
+                //get tables list and data
+                /*{
+                 "tables": tables,
+                 data: data
+                 }*/
+
+            }
+        });
+    });
+
+</script>
+</html>

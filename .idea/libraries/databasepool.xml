@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="databasepool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Server/jars/HikariCP-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/slf4j-api-1.7.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/slf4j-nop-1.7.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/h2-1.4.193.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

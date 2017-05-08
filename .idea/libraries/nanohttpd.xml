@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="nanohttpd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Server/jars/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/servlet-api-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

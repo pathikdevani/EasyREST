@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Server/jars/j2v8_win32_x86_64-4.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/commons-lang3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/jsoup-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/jars/system-hook-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
