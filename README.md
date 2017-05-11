@@ -1,6 +1,6 @@
 # EasyREST (Java + Javascript (Google V8 engine) Pool)
 
-Using this java project we can write server script in javasctipt with better performance than NodeJs in terms of performance.
+Using this java project we can write server script in javasctipt with and faster than NodeJs in terms of performance.
 
 ## Getting Started
 
