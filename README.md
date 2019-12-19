@@ -4,7 +4,7 @@ Using this java project we can write server script in javasctipt with and faster
 
 ## Getting Started
 
-Purpose of this project is fast & easy development and better perfaomance than Nodejs. Nodejs is good manny project built using Nodejs, but we knew Nodejs one threaded. Java has manny features and good written library.
+Purpose of this project is fast & easy development and better performance than Nodejs. Nodejs is good manny project built using Nodejs, but we knew Nodejs one threaded. Java has manny features and good written library.
 So main goal of this project is use java + javasctip using cpu utilization , fast ans easy develoment of server side.
 
 
